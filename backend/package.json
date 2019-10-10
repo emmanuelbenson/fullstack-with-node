@@ -1,12 +1,19 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
+  "description": "'A full stack Recipe app with Node js'",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuelbenson/fullstack-with-node.git"
   },
   "author": "'Emmanuel Benson'",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuelbenson/fullstack-with-node/issues"
+  },
+  "homepage": "https://github.com/emmanuelbenson/fullstack-with-node#readme"
 }
